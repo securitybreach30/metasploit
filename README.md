@@ -8,7 +8,7 @@ Welcome to the Metasploit Android File repository designed to deliver a seamless
 - Reliable Functionality: Rest assured that the Metasploit tool provided here is meticulously tested to ensure stable and efficient operation.
 - Up-to-date Resources: We keep our resources updated to align with the latest developments in the Metasploit framework, giving you the advantage of cutting-edge tools.
 
-🌐 How to Get Install:
+🌐 How to Install:
 1. Install the required packages by the following commands:-
 $ apt update
 $ apt upgrade -y
