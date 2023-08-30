@@ -8,10 +8,19 @@ Welcome to the Metasploit Android File repository designed to deliver a seamless
 - Reliable Functionality: Rest assured that the Metasploit tool provided here is meticulously tested to ensure stable and efficient operation.
 - Up-to-date Resources: We keep our resources updated to align with the latest developments in the Metasploit framework, giving you the advantage of cutting-edge tools.
 
-🌐 How to Get Started:
-1. Clone this repository to your local environment using the command: `git clone https://github.com/YourUsername/Metasploit-Android-Termux.git`
-2. Follow the step-by-step guide provided in the repository to set up and utilize Metasploit on your Android device with Termux.
-3. Explore the power of Metasploit for ethical hacking, penetration testing, and vulnerability assessment directly from your Android device.
+🌐 How to Get Install:
+1. Install the required packages by the following commands:-
+$ apt update
+$ apt upgrade -y
+$ pkg install wget curl openssh git -y
+$ apt install ncurses-utils
+$ pkg install ruby 
+3. Now, Clone this repository to your local environment using the command: $ git clone https://github.com/securitybreach30/metasploit
+4. Go to the metasploit directory by $ cd metasploit
+5. Run the installation file by $ bash meta.sh
+6. Go to metasploit directory by $ cd metasploit-framework
+7. now run metasploit by $ ./msfconsole
+8. Explore the power of Metasploit for ethical hacking, penetration testing, and vulnerability assessment directly from your Android device.
 
 💬 Community and Contributions:
 We encourage collaboration and value your contributions! Feel free to report any issues you encounter, suggest improvements, or contribute directly by submitting pull requests. Your feedback helps us enhance the user experience for everyone in the cybersecurity community.
